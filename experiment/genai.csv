@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is generative artificial intelligence capable of generating?,"a: Only text | b: Text, images, videos, or other data | c: Only images | d: Only videos",b
+Which model enabled an AI boom of generative AI systems in the early 2020s?,a: Markov chains | b: Transformer network | c: Variational autoencoder | d: Generative adversarial network,b
+What is an example of a generative AI system trained on programming language text?,a: Stable Diffusion | b: MusicGen | c: OpenAI Codex | d: DALL-E,c
+Which type of data can generative AI systems be trained on for protein structure prediction and drug discovery?,a: Text | b: Images | c: Molecules | d: Code,c
+What can be used to run generative AI models with tens of billions of parameters on laptop or desktop computers?,a: Arrays of GPUs | b: AI accelerator chips | c: Both a and b | d: Consumer-grade gaming graphics cards,c
