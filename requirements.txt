@@ -6,7 +6,4 @@ PyPDF2
 ipykernel
 langchain_community
 
-
-
-
 -e .
